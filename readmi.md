@@ -9,3 +9,4 @@ git commit -m -> eddigi változtatások rögzítése egy verzióban (mindenképp
 
 
 git branch ágnév -> új ág létrehozása
+git checkout ágnév -> ágak közti váltás
