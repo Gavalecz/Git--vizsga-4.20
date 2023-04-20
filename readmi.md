@@ -10,3 +10,6 @@ git commit -m -> eddigi változtatások rögzítése egy verzióban (mindenképp
 
 git branch ágnév -> új ág létrehozása
 git checkout ágnév -> ágak közti váltás
+
+Távoli gyűjtemény megadása: git remote add origin
+Feltöltés távoli gyűjteménybe: git push -u origin main
