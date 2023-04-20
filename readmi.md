@@ -1,0 +1,2 @@
+Git inicializálása:
+git init
